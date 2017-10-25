@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Rudder plugin: Hello world !
 ----------------------------
 
@@ -68,5 +69,10 @@ This is an example for a "security" report:
                  direct what the browser will do (open a PDF viewer, display 
                  an HTML page, etc). 
 
+=======
+Rudder plugin: Node properties data sources
+-------------------------------------------
+>>>>>>> branches/rudder/3.1
 
+This plugin was moved to https://github.com/Normation/rudder-plugins !
 
